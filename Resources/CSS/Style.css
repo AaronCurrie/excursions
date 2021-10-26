@@ -1,1 +1,63 @@
+html {
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+}
 
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h3 {
+    text-align: center;
+    font-size: 21px;
+    color: grey;
+    font-weight: lighter;
+}
+
+
+a {
+    text-align: center;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copyright {
+    text-align: right;
+}
+/* I want to create a pop up when you attempt to click on the link, will figure it out later.*/
+/*
+#comeback {
+    opacity: 0%;
+    position: fixed;
+}
+
+a:hover + #comeback{
+    opacity: 100%;
+    margin: auto;
+}
+*/

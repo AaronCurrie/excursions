@@ -38,6 +38,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 1%;
 }
 
 video {
@@ -49,6 +50,7 @@ video {
 .copyright {
     text-align: right;
 }
+
 /* I want to create a pop up when you attempt to click on the link, will figure it out later.*/
 /*
 #comeback {
